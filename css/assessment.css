@@ -17,7 +17,7 @@ h1{
 }
 
 
-@media all and (min-width: 800px){
+@media all and (min-width: 850px){
 
   #mystuff > div:nth-child(even){
     border:2px solid black;
@@ -39,7 +39,7 @@ h1{
 
 }
 
-@media all and (max-width: 800px){
+@media all and (max-width: 850px){
 
   #mystuff{
     display: grid;
